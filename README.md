@@ -1,6 +1,5 @@
 {% extends "base.html" %}
 {% block content %}
-
 <!DOCTYPE html>
 {% load static %}
 <html lang="en">
